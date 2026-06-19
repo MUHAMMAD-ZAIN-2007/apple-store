@@ -93,7 +93,7 @@ header nav ul li {
     font-size: clamp(16px, 2.5vw, 22px);
 }
 .second img{
-    width: min(100%, 500px);
+    width: min(100%, 830px);
     height: auto;
 }
 
