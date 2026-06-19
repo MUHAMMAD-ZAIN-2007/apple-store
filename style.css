@@ -100,7 +100,7 @@ header nav ul li {
 /* iphone Air section end */
 .main{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     gap: 20px;
     padding: 20px;
 }
